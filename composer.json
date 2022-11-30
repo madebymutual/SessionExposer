@@ -1,0 +1,14 @@
+{
+	"name": "https://github.com/madebymutual/SessionExposer",
+	"description": "Exposes the  Craft Session ID",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Mutual",
+			"homepage": "https://madebymutual.com"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
